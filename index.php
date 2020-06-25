@@ -48,7 +48,7 @@
 	<div class="centered">
 	<h1>
 	<?php
-    $output=shell_exec('python Read.py');
+    $output=shell_exec('python ReadTable.py');
     echo "<pre>";
     print_r($output);
     echo "</pre>";
