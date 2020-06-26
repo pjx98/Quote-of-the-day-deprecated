@@ -9,8 +9,6 @@ def lambda_handler(event, context):
     dynamodb = boto3.resource('dynamodb', region_name='ap-southeast-1')
     table = dynamodb.Table('Quotes')
     
-    
-    
     key = random.randint(1, 5)
     item = table.get_item(Key={'id': key})
     
