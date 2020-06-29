@@ -23,6 +23,7 @@ A Quote-of-the-day website which display a new quote each time you load the webs
 
 ## ⛏️  AWS Architecture <a name = "architecture"></a>
 
+<img src="AWS-Architecture.jpg">
 ![](2020-06-28-23-27-54.png)
 
 Above is a general overview of the architecture.
