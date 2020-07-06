@@ -169,7 +169,7 @@ For the cron expression, you can set to any time that you want, for eg daily, we
 
 [Read up on how to install Terraform](https://blog.gruntwork.io/an-introduction-to-terraform-f17df9c6d180)
 
-We can also use Terraform to automate the deployment of our DynamoDB table, Lambda Function as well as Cloudwatch Events.  
+We can also use Terraform, [main.tf](https://github.com/pjx98/Quote-of-the-day/blob/master/Main.tf) to automate the deployment of our DynamoDB table, Lambda Function as well as Cloudwatch Events.  
 
 Reason for not including SNS is because the [email protocol for SNS is not supported currently in Terraform](https://www.terraform.io/docs/providers/aws/r/sns_topic_subscription.html), hence we can only provision it through the aws console management.  
 
