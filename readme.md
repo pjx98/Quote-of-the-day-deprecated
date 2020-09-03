@@ -175,7 +175,6 @@ Reason for not including SNS is because the [email protocol for SNS is not suppo
 
 
 
-## 🎉 Acknowledgements <a name = "acknowledgement"></a>
-- My inspiration comes from: https://www.reddit.com/r/sysadmin/comments/8inzn5/so_you_want_to_learn_aws_aka_how_do_i_learn_to_be/
+
 
 
