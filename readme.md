@@ -19,7 +19,7 @@
 - [Acknowledgments](#acknowledgement)
 
 ## 🧐 About <a name = "about"></a>
-A Quote-of-the-day website which display a new quote each time you load the website. It has a feature to send an email containing a random quote to you every morning.  
+A Quote-of-the-day website which displays a new quote each time you load the website. It has a feature to send an email containing a random quote to you every morning.  
 
 ## ⛏️  AWS Architecture <a name = "architecture"></a>
 
