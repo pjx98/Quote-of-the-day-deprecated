@@ -176,7 +176,13 @@ Firstly, navigate to the folder with your terraform file. Run the command ```ter
 Reason for not including SNS is because the [email protocol for SNS is not supported currently in Terraform](https://www.terraform.io/docs/providers/aws/r/sns_topic_subscription.html), hence we can only provision it through the aws console management.  
 
 
+## Testing of PHP File
 
+Open Xampp, start both Apache and MySQL. 
+
+Navigate to your xampp/htdocs folder in Program files.
+
+Enter localhost/file.php or localhost/Quote-of-the-day/file.php on your browser to see the display the php webpage
 
 
 
